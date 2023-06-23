@@ -57,6 +57,7 @@ html {
   border-radius: 20px;
   padding: 1rem 5rem;
   box-shadow: 5px 5px 5px;
+  transition: 0.5s ease-in-out;
 }
 
 .mid-section .mid-text-info .register-btn a:hover {
@@ -64,4 +65,35 @@ html {
   color: #FFF;
   box-shadow: 5px 5px 15px  black;
 }
+
+
+.footer {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 2rem;
+
+}
+
+.footer .icons a i {
+  color: #FFF;
+  border-radius: 50%;
+  border: solid 1px #FFF;
+  padding: 1.2rem;
+  margin: 0 0.5rem;
+  
+}
+
+.footer .icons a i:hover {
+  color: hsl(300, 69%, 71%);
+  border-radius: 50%;
+  border: solid 1px hsl(300, 69%, 71%);
+  padding: 1.2rem;
+  margin: 0 0.5rem;
+  transition: 0.5s ease-in-out;
+}
+
+
+
+
+
 
