@@ -9,17 +9,28 @@
     .mid-section {
     display: flex;
     flex-direction: column;
-  }
+    margin-bottom: 3rem;
+    }
+    
 
   .mid-section img {
-    max-width: 425px;
+    max-width: 400px;
     max-height: 270px;
     margin-bottom: 4rem;
   }
+  
 
   .mid-section .mid-text-info {
     text-align: center;
-    max-width: 425px;
+    max-width: 350px;
+  }
+
+  .mid-section .mid-text-info h1 {
+    font-size: 2.8rem;
+  }
+  .mid-section .mid-text-info p {
+    font-size: 1.4rem;
+   
   }
 
   .footer {

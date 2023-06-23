@@ -1,4 +1,4 @@
-Atividade feita durante o módulo de  projeto landing page com grid e flex do curso DevQuest.<br><br>
+Desafio HTML + CSS avançado do curso DevQuest.<br><br>
 Criado utilizando:
 
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -9,9 +9,14 @@ Criado utilizando:
 Resultado Desktop<br><br>
 
 
-<img src="./src/images/design/desktop-design.jpgop.png" alt="image Result on desktop" width="432" height="1300">
+<img src="./src/images/design/desktop.png" alt="image Result on desktop" width="532" height="280"><br><br>
+
+Ativo
+
+<img src="./src/images/design/active.png" alt="image Result on desktop" width="532" height="280"><br><br>
+
 
 #
 Resultado Mobile<br><br>
 
-<img src="./src/images/design/mobile-design.jpgile.png" alt="image result on mobile" width="125" height="1745">
+<img src="./src/images/design/mobile.png" alt="image result on mobile" width="172" height="335">
