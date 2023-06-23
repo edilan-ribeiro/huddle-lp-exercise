@@ -1,35 +1,35 @@
 html {
-    font-size: 62.5%;
-  }
-  
-  body {
-    background: url(../images/bg-desktop.svg);
-    background-color: hsl(257, 40%, 49%);
-    display: flex;
-    flex-direction: column;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
-    color: #FFF;
-    align-items: center;
-  }
+  font-size: 62.5%;
+}
 
-  .header  {
-    max-height: 100px;
-    margin: 4rem 0;
-  }
+body {
+  background: url(../images/bg-desktop.svg);
+  background-color: hsl(257, 40%, 49%);
+  display: flex;
+  flex-direction: column;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  color: #fff;
+  align-items: center;
+}
 
-  .header img {
-    width: 180px;
-  }
+.header {
+  max-height: 100px;
+  margin: 4rem 0;
+}
 
-  .mid-section {
-    display: flex;
-    align-items: center;
-    gap: 5rem;
-  }
+.header img {
+  width: 180px;
+}
+
+.mid-section {
+  display: flex;
+  align-items: center;
+  gap: 5rem;
+}
 
 .mid-section .mid-text-info {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin-top: -10%;
   max-width: 470px;
 }
@@ -37,7 +37,6 @@ html {
 .mid-section .mid-text-info h1 {
   font-size: 3.8rem;
   font-weight: 600;
-  
 }
 
 .mid-section .mid-text-info p {
@@ -53,7 +52,7 @@ html {
 
 .mid-section .mid-text-info .register-btn a {
   font-size: 1.6rem;
-  background-color: #FFF;
+  background-color: #fff;
   border-radius: 20px;
   padding: 1rem 5rem;
   box-shadow: 5px 5px 5px;
@@ -62,25 +61,22 @@ html {
 
 .mid-section .mid-text-info .register-btn a:hover {
   background-color: hsl(300, 69%, 71%);
-  color: #FFF;
-  box-shadow: 5px 5px 15px  black;
+  color: #fff;
+  box-shadow: 5px 5px 15px black;
 }
-
 
 .footer {
   display: flex;
   justify-content: flex-end;
   font-size: 2rem;
-
 }
 
 .footer .icons a i {
-  color: #FFF;
+  color: #fff;
   border-radius: 50%;
-  border: solid 1px #FFF;
+  border: solid 1px #fff;
   padding: 1.2rem;
   margin: 0 0.5rem;
-  
 }
 
 .footer .icons a i:hover {
@@ -91,9 +87,3 @@ html {
   margin: 0 0.5rem;
   transition: 0.5s ease-in-out;
 }
-
-
-
-
-
-
