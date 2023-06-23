@@ -13,4 +13,19 @@ html {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     color: #FFF;
+    align-items: center;
+  }
+
+  .header  {
+    max-height: 100px;
+    margin: 4rem 0;
+  }
+
+  .header img {
+    width: 180px;
+  }
+
+  .mid-section {
+    display: flex;
+    align-items: center;
   }
