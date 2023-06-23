@@ -57,6 +57,7 @@ body {
   padding: 1rem 5rem;
   box-shadow: 5px 5px 5px;
   transition: 0.5s ease-in-out;
+  color: hsl(257, 40%, 49%);
 }
 
 .mid-section .mid-text-info .register-btn a:hover {
