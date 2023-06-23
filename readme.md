@@ -1,4 +1,4 @@
-Desafio HTML + CSS avançado do curso DevQuest.<br><br>
+Desafio landing page do huddle do curso DevQuest e frontend io.<br><br>
 Criado utilizando:
 
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
