@@ -56,7 +56,7 @@ body {
   background-color: #fff;
   border-radius: 20px;
   padding: 1rem 5rem;
-  box-shadow: 5px 5px 5px;
+  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.2);
   transition: 0.5s ease-in-out;
   color: hsl(257, 40%, 49%);
 }
@@ -64,7 +64,7 @@ body {
 .mid-section .mid-text-info .register-btn a:hover {
   background-color: hsl(300, 69%, 71%);
   color: #fff;
-  box-shadow: 5px 5px 15px black;
+  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.2);
 }
 
 .footer {
