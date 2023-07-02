@@ -1,6 +1,9 @@
 @media (max-width: 990px) {
     body {
         padding: 7px;
+        background: url(../images/bg-mobile.svg);
+        background-color: hsl(257, 40%, 49%);
+        background-size: cover;
     }
     .header {
         margin: 40px 20px;
